@@ -1,4 +1,4 @@
-# CCP-18
+# CCP-21
 Generate n numbers with given digits in increasing order
 
 
